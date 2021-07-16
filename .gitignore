@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 texto.txt
+
+package-lock.json
